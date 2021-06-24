@@ -1,15 +1,10 @@
-# Title of your paper
+# Integration Psldoc3 Web App
 ### Members
-* name, student ID1
-* name, student ID2
-* name, student ID3
-* ...
+* 劉書傳, 108971017
+
 
 ### Demo 
-You might provide an example commend or few commends to reproduce your analysis
-```R
-Rscript code/your_script.R --input data/training --output results/performance.tsv
-```
+https://changlabserver.com//psldoc3
 
 ## Folder organization and its related information
 
